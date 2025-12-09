@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+SEPTA,https://www5.septa.org/,en,20250616,20250823,CITY Summer 2025_20250724
